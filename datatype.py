@@ -1,6 +1,6 @@
 #list
 l = ['a','b',3]
-print l
+#print l
 
 #tuple, 不能修改內容 但是能修改list的內容
 t = ([1,2],3,'a','b')
